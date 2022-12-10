@@ -1,0 +1,65 @@
+we are create a file as a vim command 
+vim command are two mode - 1.command mode 2.insert mode
+command mode main jane ke liye esc : wq press karna hota he w=save q=quit
+
+external file me script tag likhne ki jarurat nhi hoti hain
+
+console.log maximum devlopers use krte hai but humye sabhi tarike pta hona chiye
+
+src = source/address
+
+address do type ke hote hai 1.relative 2.absoult[net wala]
+absoult address is always starting in http/https
+
+code humesha top to bottom hi access hota hain...
+
+jab tak window.alert pr hum ok nhi kreyege aage ka output nhi dekh payegye
+
+the 3rd way of see js output is inner.HTML
+
+if you use innerhtml you always use a structure in body tag
+[innerhtml ka use krne ke liye humye body tag me koi na koi tag lena pdta hain...]
+
+kisi tag ke contant area ko hi innerhtml bolte hain [javascript main]
+
+innerhtml k use karne ka tarika
+document.getelementbyid [agar id de rkha he to] or id ko string me likha hai
+example..
+getelementbyid('idname').inner.HTML = "msg string mai"
+
+= ye ek assigment opretor he iski value right to left hoti he mtlab jo bhi string main hum likhyege wo innerhtml me aayega
+
+innerhtml = contant area [iski associativity right to left hoti hain]
+
+= opretor assigment opretor main ata hain
+
+js ka output dekhna ka 4th or last tarika he document.write
+
+ex...--
+
+document.write(<tag>'    '</tag>);
+
+document.write me humesha tag me likhna hota hain
+
+hum jitne chahe utne script tag le skte hain
+
+what are keywords?
+
+keywords are some english words which are reserverd for a programing langague
+[keywords ase words hote he jo programing langague ne apne liye store kr ke rakhye hain...]
+hum var se var naam ka hi variabal nhi bna skte hain
+hum let naam ka variabal nahi bna skte hain
+hum conts naam ka variabal nhi bna skte hain
+kyo ki ye words java script ne apne liye store kar rkhye hain...
+
+variabal bnane ka ek rule he ki variabal ka pehle word koi number/digit nhi hona chahiye
+
+hum variables ko 3 tariko se bna skte he 
+1.var 
+2.let
+3.conts [2015 ke es-6 me in new words ko bhi liya gya]
+
+
+
+
+
